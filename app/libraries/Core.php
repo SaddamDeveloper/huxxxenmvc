@@ -27,6 +27,21 @@
 
       //Instantiate the controller
       $this->currentController = new $this->currentController;
+
+      //Check for the second part of the URL
+      if(isset($url[1])){
+        //check to see if method is exists in currnet controller
+        if(method_exists($this->currentController, $url[1])){
+          $this->currentMethod = $url[1];
+          
+          //unset 1 Index
+          unset($url[1]);
+        }
+      }
+      //Get params
+      $this->params = $url ? array_values($url) : [];
+
+      call_user_func_array([$this->currentController, $this->currentMethod], $this->params);
     }
 
     public function getUrl(){

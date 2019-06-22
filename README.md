@@ -4,7 +4,7 @@ A OOP PHP MVC is created to simplify projects. MVC Stands for "Model-View-Contro
 The MVC model or "pattern" is commonly used for developing modern user interfaces. It is provides the fundamental pieces for designing a programs for desktop or mobile, as well as web applications. It works well with object-oriented programming, since the different models, views, and controllers can be treated as objects and reused within an application.
 
 # Documentation
-## Server Requirements
+### Server Requirements
 
 
 # Author

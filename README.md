@@ -13,6 +13,6 @@ HuxxxenMVC is installed in four steps:
 
 1. Unzip the package.
 2. Upload the HuxxenMVC folders and files to your server. Normally the index.php file will be at your root.
-3. Open the application/config/config.php file with a text editor and set your base URL, Root Folder and Database credentials. 
+3. Open the app/config/config.php file with a text editor and set your base URL, Root Folder and Database credentials. 
 # Author
 Created By SADDAM HUSSAIN

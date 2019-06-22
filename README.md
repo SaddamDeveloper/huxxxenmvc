@@ -6,7 +6,8 @@ The MVC model or "pattern" is commonly used for developing modern user interface
 # Documentation
 ### Server Requirements
 PHP version any newer version is recommended. 
-A database is required for most web application programming. Currently supported databases are: MySQL (5.1+) via the mysql (deprecated), mysqli and pdo drivers
+A database is required for most web application programming. Currently supported databases are: 
+  * MySQL (5.1+) via the mysql (deprecated), mysqli and pdo drivers
 ### Installation Instructions
 HuxxxenMVC is installed in four steps:
 

@@ -9,4 +9,4 @@
     //URL ROOT
     define('URLROOT', 'http://localhost/your_directory');
     //Site Name
-    define('APPNAME', 'HuxxxenMVC');
+    define('APPNAME', '__YOUR__APPNAME__');

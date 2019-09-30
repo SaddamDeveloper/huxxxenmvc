@@ -9,7 +9,7 @@ PHP version any newer version is recommended.
 A database is required for most web application programming. Currently supported databases are: 
   * MySQL (5.1+) via the mysql (deprecated), mysqli and pdo drivers
   #### Database Methods
-  
+  ### <ahref="#"> query()</a>
 ### Installation Instructions
 HuxxxenMVC is installed in following steps:
 

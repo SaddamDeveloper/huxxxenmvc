@@ -19,4 +19,3 @@ HuxxxenMVC is installed in following steps:
 ![HuxxenMVC](https://user-images.githubusercontent.com/36893768/65867148-81452200-e393-11e9-8e25-d89920ed8230.JPG)
 # Author
 Created By SADDAM HUSSAIN
-thrsa

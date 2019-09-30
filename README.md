@@ -24,6 +24,7 @@ HuxxxenMVC is installed in following steps:
 
 ### Support
   * jQuery (3.4.1) and Bootstrap (4.3.1)
+  * Vue JS (2.6.10)
 
 # Screenshot
 ![HuxxenMVC](https://user-images.githubusercontent.com/36893768/65867148-81452200-e393-11e9-8e25-d89920ed8230.JPG)
